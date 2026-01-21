@@ -1,4 +1,4 @@
-# ✈️ Projeto de Certificação 1 — Agência de Viagem (TripMe)
+## ✈️ Projeto de Certificação 1 — Agência de Viagem (TripMe)
 
 > Projeto desenvolvido como parte do programa **DEVStart**, na **Trilha 2 — HTML, CSS e JavaScript**,  
 > com foco em interface, responsividade e boas práticas de desenvolvimento frontend.
